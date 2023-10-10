@@ -1,11 +1,11 @@
 <?php
 
-namespace App\Http\Controllers\Test;
+namespace App\Http\Controllers\Pediatria;
 
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
 
-class TestController extends Controller
+class CurvasController extends Controller
 {
     public function index(){
         try
